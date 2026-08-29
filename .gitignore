@@ -3,3 +3,8 @@
 /workspace.xml
 # Environment-dependent path to Maven home directory
 /mavenHomeManager.xml
+# JetBrains / IntelliJ configuration
+.idea/
+*.iml
+# OS generated files
+.DS_Store
